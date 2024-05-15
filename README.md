@@ -2,7 +2,7 @@
 Olá! Eu me chamo Rodrigo Teixeira, e sou desenvolvedor de software! Seja bem-vindo(a) ao meu perfil!
 ###
 
-<p align="left">• 🎓 Estudante de Ciência da Computação<br>• 🧑🏽‍💻 Apaixonado por aprender novas coisas</p>
+<p align="left">• 🎓 Estudante de Ciência da Computação<br>• 🥋 Desenvolvedor Python iniciante<br>• 🎯Conhecimentos em linguagem C, JavaScript e Node.js<br>• 🧑🏽‍💻 Apaixonado por aprender novas coisas, com foco em engenharia de software</p>
 
 ###
 
