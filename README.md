@@ -4,7 +4,7 @@ Olá! Eu me chamo Rodrigo Teixeira, e sou desenvolvedor de software! Seja bem-vi
 _Hello! My name is Rodrigo Teixeira, and I'm a software developer! Welcome to my profile!_
 ###
 
-<p align="left">• 🎓 Estudante de Ciência da Computação (Computer Science Student)<br>• 🥋 Desenvolvedor Python iniciante (Beginner Python Developer)<br>• 🎯Conhecimentos em linguagem C, JavaScript e Node.js (Knowledge of C, JavaScript and Node.js)<br>• 🧑🏽‍💻 Apaixonado por aprender novas coisas, com foco em engenharia de software (Passionate about learning new things, with a focus on software engineering)</p>
+<p align="left">• 🎓 Estudante de Ciência da Computação (Computer Science Student)<br>• 🥋 Desenvolvedor Python iniciante (Beginner Python Developer)<br>• 🎯Conhecimentos em linguagem C, Java e Python (Knowledge of C, Java and Python)<br>• 🧑🏽‍💻 Apaixonado por aprender novas coisas, com foco em engenharia de software (Passionate about learning new things, with a focus on software engineering)</p>
 
 ###
 
@@ -18,13 +18,15 @@ _Hello! My name is Rodrigo Teixeira, and I'm a software developer! Welcome to my
 ## 📚💻📚 Habilidades (_Skills_)
 ### Linguagens de Programação (_Programming languages_)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)>
 
 ### ⚙Ferramentas (_Tools_)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
 ## GitHub Stats🛡
