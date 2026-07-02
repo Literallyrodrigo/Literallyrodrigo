@@ -1,10 +1,10 @@
 # 🧥🖥Rodrigo Teixeira🥋🥇
-Olá! Eu me chamo Rodrigo Teixeira, e sou desenvolvedor de software! Seja bem-vindo(a) ao meu perfil!
+Olá! Eu me chamo Rodrigo Teixeira, e sou cientista da computação! Seja bem-vindo(a) ao meu perfil!
 
-_Hello! My name is Rodrigo Teixeira, and I'm a software developer! Welcome to my profile!_
+_Hello! My name is Rodrigo Teixeira, and I'm a computer scientist! Welcome to my profile!_
 ###
 
-<p align="left">• 🎓 Estudante de Ciência da Computação (Computer Science Student)<br>• 🥋 Desenvolvedor Python e Java iniciante (Beginner Python and Java Developer)<br>• 🎯Conhecimentos em linguagem C, Java e Python (Knowledge of C, Java and Python)<br>• 🧑🏽‍💻 Apaixonado por aprender novas coisas, com foco em engenharia de software (Passionate about learning new things, with a focus on software engineering)</p>
+<p align="left">• 🎓 Cientista da Computação (Computer Scientist)<br>• 🥋 Desenvolvedor Python e Java iniciante (Beginner Python and Java Developer)<br>• 🎯Conhecimentos em linguagem C, Java e Python (Knowledge of C, Java and Python)<br>• 🧑🏽‍💻 Apaixonado por aprender novas coisas, com foco em engenharia de software (Passionate about learning new things, with a focus on software engineering)</p>
 
 ###
 
@@ -41,12 +41,6 @@ _Hello! My name is Rodrigo Teixeira, and I'm a software developer! Welcome to my
 ### ☁️Cloud Computing Service
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
-## GitHub Stats🛡
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 
 ## Minhas Contribuições🧤 (_My Contributions_)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
