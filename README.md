@@ -42,5 +42,10 @@ _Hello! My name is Rodrigo Teixeira, and I'm a computer scientist! Welcome to my
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## Minhas Contribuições🧤 (_My Contributions_)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+# 🚀 Projetos em Destaque (_Featured Projects_)
+## 🖥 Allias Office PRO
+
+Localizador inteligente de arquivos duplicados desenvolvido em Python com CustomTkinter (_Smart duplicate file finder developed in Python using CustomTkinter_).
+
+➡️ **Acessar projeto (_Access the project_):**  
+📂 **Repo:** [Allias Office PRO](https://github.com/Literallyrodrigo/allias-office-pro)
