@@ -51,3 +51,10 @@ Localizador inteligente de arquivos duplicados desenvolvido em Python com Custom
 
 ➡️ **Acessar projeto (_Access the project_):**  
 📂 **Repo:** [Allias Office PRO](https://github.com/Literallyrodrigo/allias-office-pro)
+
+## 🎬 PyVideo Downloader
+
+Aplicação desktop para download e conversão de vídeos e áudios utilizando yt-dlp com interface gráfica em PySide6 (_Desktop application for downloading and converting videos and audio using yt-dlp with a PySide6 GUI_).
+
+➡️ **Acessar projeto (_Access the project_):**  
+📂 **Repo:** [PyVideo Downloader](https://github.com/Literallyrodrigo/pyvideo-downloader)
