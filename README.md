@@ -4,7 +4,7 @@ Olá! Eu me chamo Rodrigo Teixeira, e sou cientista da computação! Seja bem-vi
 _Hello! My name is Rodrigo Teixeira, and I'm a computer scientist! Welcome to my profile!_
 ###
 
-<p align="left">• 🎓 Cientista da Computação (Computer Scientist)<br>• 🥋 Desenvolvedor Python e Java iniciante (Beginner Python and Java Developer)<br>• 🎯Conhecimentos em linguagem C, Java e Python (Knowledge of C, Java and Python)<br>• 🧑🏽‍💻 Apaixonado por aprender novas coisas, com foco em engenharia de software (Passionate about learning new things, with a focus on software engineering)</p>
+<p align="left">• 🎓 Cientista da Computação (Computer Scientist)<br>• 🥋 Desenvolvedor Python e Java (Python and Java Developer)<br>• 🎯Conhecimentos em linguagem C, Java e Python (Knowledge of C, Java and Python)<br>• 🧑🏽‍💻 Apaixonado por aprender novas coisas, com foco em engenharia de software (Passionate about learning new things, with a focus on software engineering)</p>
 
 ###
 
