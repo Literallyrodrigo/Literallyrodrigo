@@ -42,6 +42,8 @@ _Hello! My name is Rodrigo Teixeira, and I'm a computer scientist! Welcome to my
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+
+
 # 🚀 Projetos em Destaque (_Featured Projects_)
 ## 🖥 Allias Office PRO
 
