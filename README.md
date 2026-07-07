@@ -51,7 +51,6 @@ _Hello! My name is Rodrigo Teixeira, and I'm a computer scientist! Welcome to my
 Conversor profissional de documentos desenvolvido em Python com interface gráfica moderna utilizando CustomTkinter (_Professional document converter developed in Python with a modern graphical interface using CustomTkinter_). 
 
 ➡️ **Acessar projeto (_Access the project_):** 
-
 📂 **Repo:** [ArkPDF](https://github.com/Literallyrodrigo/ArkPDF) 
 
 ---
