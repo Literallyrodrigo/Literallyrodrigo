@@ -45,12 +45,24 @@ _Hello! My name is Rodrigo Teixeira, and I'm a computer scientist! Welcome to my
 
 
 # 🚀 Projetos em Destaque (_Featured Projects_)
+
+## 📄 ArkPDF 
+
+Conversor profissional de documentos desenvolvido em Python com interface gráfica moderna utilizando CustomTkinter (_Professional document converter developed in Python with a modern graphical interface using CustomTkinter_). 
+
+➡️ **Acessar projeto (_Access the project_):** 
+📂 **Repo:** [ArkPDF](https://github.com/Literallyrodrigo/ArkPDF) 
+
+---
+
 ## 🖥 Allias Office PRO
 
 Localizador inteligente de arquivos duplicados desenvolvido em Python com CustomTkinter (_Smart duplicate file finder developed in Python using CustomTkinter_).
 
 ➡️ **Acessar projeto (_Access the project_):**  
 📂 **Repo:** [Allias Office PRO](https://github.com/Literallyrodrigo/allias-office-pro)
+
+---
 
 ## 🎬 PyVideo Downloader
 
